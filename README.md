@@ -1,2 +1,2 @@
 # Car price prediction
-Prediction of the car price using Python
+Prediction of car prices using Python
